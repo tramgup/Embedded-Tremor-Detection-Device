@@ -1,4 +1,4 @@
-# Embedded Tremor Detection Device
+# Parkinson's Tremor Detection Device
 
 **Final Project for the Graduate-Level Real-Time Embedded Systems Course at NYU Tandon School of Engineering**  
 Developed using **PlatformIO** on **VS Code**  
